@@ -16,31 +16,6 @@ The analysis was performed using Python, Pandas, and Matplotlib.
 
 ---
 
-# Project Structure
-
-online_retail_analysis/
-│
-├── data/
-│   └── online_retail_II.xlsx
-│
-├── notebooks/
-│   └── retail_analysis.py
-│
-├── outputs/
-│   ├── customer_summary_report.csv
-│   ├── country_summary_report.csv
-│   ├── monthly_sales_report.csv
-│   ├── key_metrics.json
-│   ├── Top_Customers_Purchase.png
-│   ├── Top_Customers_AOV.png
-│   ├── Top_countries_Purchase.png
-│   └── monthly_sales_report.png
-│
-└── executive_summary.txt
-```
-
----
-
 # Dataset
 
 Dataset source:
