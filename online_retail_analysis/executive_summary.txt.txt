@@ -1,0 +1,30 @@
+#Executive Summary
+
+This project analyzes online retail transaction data from a UK-based retail company between 2009 and 2011.
+The goal of the analysis is to extract business insights related to customer behavior, country performance, sales trends, and purchasing patterns.
+
+#Key Metrics#
+Total Revenue: £17,743,429.17
+Total Orders: 36,975
+Best-Selling Product: White Hanging Heart T-Light Holder
+Top Performing Country: United Kingdom
+Average Order Value (AOV): £479.88
+Units Per Transaction (UPT): 289.95
+
+#Key Insights#
+The distribution of Average Order Value shows that most customers place relatively low-value orders, while a small group of customers contributes disproportionately high spending.
+More than 90% of total revenue comes from the United Kingdom, indicating a strong geographic concentration of sales.
+The top two customers have very similar purchase volumes, showing that a small change in customer retention or engagement strategy could significantly affect total revenue.
+Monthly sales trends reveal two major sales peaks during the analyzed period, while sales remain significantly lower during most other months of the year.
+The high Units Per Transaction value suggests that a large portion of purchases are made in bulk, indicating strong wholesale purchasing behavior.
+
+#Business Impact#
+The business is highly dependent on a small number of high-value customers.
+Revenue concentration in a single country increases business risk and limits international growth opportunities.
+Monthly sales fluctuations indicate unstable revenue patterns throughout the year.
+
+#Recommendations#
+Introduce seasonal campaigns, monthly promotions, or discount events during low-sales periods to stabilize monthly revenue.
+Provide premium support, loyalty programs, or VIP services for high-value customers to improve retention.
+Develop targeted engagement strategies for top customers, since small increases in their purchase volume could generate significant additional revenue.
+Since bulk purchasing behavior is strong, the company could expand wholesale-focused services, pricing models, or partnership programs.
